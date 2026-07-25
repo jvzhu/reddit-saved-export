@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="800" height="460" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="800" height="460" fill="#171a21"/>
+    <rect width="800" height="36" fill="#20242e"/>
+    <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+    <circle cx="40" cy="18" r="6" fill="#febc2e"/>
+    <circle cx="60" cy="18" r="6" fill="#28c840"/>
+    <text x="400" y="23" text-anchor="middle" fill="#9099a8" font-size="12">python get_saved.py</text>
+
+    <text x="20" y="66" font-size="13" fill="#5fd97a">$ python get_saved.py</text>
+
+    <text x="20" y="96" font-size="13" fill="#e8e8ec">Logged in as: example_user</text>
+
+    <text x="20" y="130" font-size="13" fill="#ff9d7a">[POST] TIL the Great Wall of China is not visible from space</text>
+    <text x="38" y="150" font-size="12" fill="#9099a8">link: reddit.com/r/todayilearned/abc123</text>
+    <text x="38" y="170" font-size="12" fill="#9099a8">preview: Contrary to popular belief, the Great Wall isn't...</text>
+
+    <text x="20" y="204" font-size="13" fill="#7ab8ff">[COMMENT] Honestly this changed how I think about spaced rep...</text>
+    <text x="38" y="224" font-size="12" fill="#9099a8">on: What's the most effective way to learn a language?</text>
+
+    <text x="20" y="258" font-size="13" fill="#ff9d7a">[POST] A minimal Python script for OAuth2 flows</text>
+    <text x="38" y="278" font-size="12" fill="#9099a8">link: reddit.com/r/Python/def456</text>
+    <text x="38" y="298" font-size="12" fill="#9099a8">preview: Here's a pattern I use for local OAuth callbacks...</text>
+
+    <text x="20" y="332" font-size="13" fill="#7ab8ff">[COMMENT] The recension differences matter more than people...</text>
+    <text x="38" y="352" font-size="12" fill="#9099a8">on: Classical Chinese commentary traditions explained</text>
+
+    <text x="20" y="392" font-size="13" fill="#9099a8">... (47 more items)</text>
+
+    <text x="20" y="428" font-size="13" fill="#5fd97a">$</text>
+    <rect x="38" y="416" width="8" height="14" fill="#5fd97a">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="0.5" y="0.5" width="799" height="459" rx="12" ry="12" fill="none" stroke="#262a33"/>
+</svg>
